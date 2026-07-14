@@ -1,0 +1,37 @@
+# Raw sequencing files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# QIIME2 artifacts and visualizations
+*.qza
+*.qzv
+
+# Large reference databases
+data/references/
+external_resources/
+*.k2d
+hash.k2d
+opts.k2d
+taxo.k2d
+
+# Kraken2 large outputs
+*.kraken
+
+# R intermediate files
+*.rds
+.Rhistory
+.RData
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary/log files
+*.tmp
+*.log

@@ -1,0 +1,27 @@
+Species	Percent	Clade_reads	Direct_reads	Rank	TaxID
+Bacillus marisflavi	0.01	40	40	S	2673
+Bacillus firmus	0.01	22	22	S	2664
+Anoxybacillus kestanbolensis	0.0	10	10	S	2655
+Staphylococcus aureus	0.17	565	565	S	2714
+Staphylococcus epidermidis	0.13	421	421	S	2715
+Staphylococcus sciuri	0.01	22	22	S	2720
+Streptococcus luteciae	0.03	108	108	S	2759
+Streptococcus sobrinus	0.0	13	13	S	2761
+Streptococcus infantis	0.0	12	12	S	2758
+Lactobacillus iners	0.06	189	189	S	2740
+Lactobacillus reuteri	0.01	27	27	S	2745
+Clostridium perfringens	1.11	3626	3626	S	2770
+Clostridium butyricum	0.26	851	851	S	2765
+Clostridium bowmanii	0.14	462	462	S	2764
+Clostridium neonatale	0.07	217	217	S	2768
+Clostridium subterminale	0.03	84	84	S	2772
+[Eubacterium] biforme	0.0	11	11	S	2814
+Neisseria cinerea	16.83	55080	55080	S	2922
+Acinetobacter lwoffii	0.03	84	84	S	3014
+Acinetobacter johnsonii	0.0	15	15	S	3013
+Acinetobacter schindleri	0.0	15	15	S	3016
+Acinetobacter rhizosphaerae	0.0	11	11	S	3015
+Pseudomonas stutzeri	0.0	11	11	S	3029
+Prevotella stercorea	0.01	34	34	S	2611
+Propionibacterium acnes	0.64	2092	2092	S	2556
+Corynebacterium durum	0.0	10	10	S	2499
